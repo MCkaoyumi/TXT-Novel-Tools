@@ -5,7 +5,7 @@
 # 特点
 将章节分到了多个文件夹，保证了每个文件夹不多于指定数目的文件，这样跳转文件时便无需频繁按上下键
 # 使用方法
-安装python 3，下载地址参见：<https://python.org/download>
+安装python 3，下载地址参见：<https://python.org/downloads>
 
 运行以下命令安装必要的库
 ```
